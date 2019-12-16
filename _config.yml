@@ -1,1 +1,9 @@
+
 theme: jekyll-theme-merlot
+title: Swift By Hicks
+author: Jakob Neufeld
+email: your-email@domain.com
+description: > A website with a handfull of tips and tricks with swift.
+# social links
+github_username:  jakobneufeld
+show_excerpts: true # set to false to remove excerpts on the homepage+
